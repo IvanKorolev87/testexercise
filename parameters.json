@@ -1,0 +1,36 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_kofe1_name": {
+            "value": null
+        },
+        "sites_kofe2_name": {
+            "value": null
+        },
+        "sites_kofe3_name": {
+            "value": null
+        },
+        "sites_kofe4_name": {
+            "value": null
+        },
+        "components_kofe1_name": {
+            "value": null
+        },
+        "components_kofe2_name": {
+            "value": null
+        },
+        "components_kofe3_name": {
+            "value": null
+        },
+        "serverfarms_ASP_WebApp_b51e_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_cf207e60_54e1_4734_a6e7_8ff20f0dc747_WEU_externalid": {
+            "value": null
+        }
+    }
+}
